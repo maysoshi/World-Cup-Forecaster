@@ -1,0 +1,737 @@
+,name,position,country,overall_rating,dribbling,freekick_accuracy,agility,ball_control,interceptions,penalties
+0,Essam Kamal Tawfiq El Hadary,GK,Egypt,70.52631578947368,67.05263157894737,54.10526315789474,69.63157894736842,67.89473684210526,43.0,56.526315789473685
+1,Ali Gabr Gabr Mossad,DF,Egypt,67.0,68.0,64.0,68.0,70.0,34.0,60.0
+2,Ahmed Eissa Elmohamady Abdel Fattah,DF,Egypt,70.0,68.0,69.0,72.0,71.0,68.0,59.0
+3,Omar Mahmoud El Sayed Gaber,MF,Egypt,68.0,62.0,46.0,72.0,70.0,62.0,46.0
+4,Samy Sayed Morsy,MF,Egypt,70.0,69.0,55.0,81.0,66.0,68.0,44.0
+5,Ahmed Elsayed Ali Elsayed Hegazy,DF,Egypt,76.0,49.0,29.0,45.0,63.0,71.0,30.0
+6,Ahmed Fathi Abdelmonem Ahmed Ibrahim,DF,Egypt,53.0,58.0,44.0,58.0,54.0,19.0,56.0
+7,Tarek Hamed,MF,Egypt,67.0,69.0,61.0,59.0,60.0,66.0,66.0
+8,Marwan Mohsen Fahmy Tharwat Gameldin Mahmoud Fahmy,FW,Egypt,70.52631578947368,67.05263157894737,54.10526315789474,69.63157894736842,67.89473684210526,43.0,56.526315789473685
+9,Mohamed Salah Hamed Mahrous Ghaly,FW,Egypt,89.0,89.0,60.0,91.0,88.0,55.0,75.0
+10,Mahmoud Abdel Moneim Abdel Hamid Soliman,FW,Egypt,74.0,80.0,44.0,79.0,77.0,28.0,69.0
+11,Ayman Ashraf Elsayed Elsembeskany,DF,Egypt,70.52631578947368,67.05263157894737,54.10526315789474,69.63157894736842,67.89473684210526,43.0,56.526315789473685
+12,Mohamed Abdel Shafy Said Abouzid,DF,Egypt,69.0,65.0,59.0,75.0,68.0,67.0,50.0
+13,Ramadan Sobhi Ramadan Ahmed,FW,Egypt,74.0,81.0,63.0,73.0,80.0,38.0,65.0
+14,Mahmoud Hamdy Mahmoud Hamouda Attia,DF,Egypt,59.0,57.0,36.0,66.0,56.0,15.0,60.0
+15,Sherif Ekramy Ahmed Ahmed El-Shahat,GK,Egypt,69.0,12.0,13.0,42.0,24.0,15.0,15.0
+16,Mohamed Naser Elsayed Elneny,MF,Egypt,77.0,68.0,56.0,65.0,76.0,76.0,62.0
+17,Mahmoud Abdelrazek Hassan Fadlala,FW,Egypt,71.0,77.0,75.0,76.0,75.0,29.0,69.0
+18,Abdallah Mahmoud Said Bekhit,MF,Egypt,71.0,71.0,76.0,79.0,74.0,42.0,71.0
+19,Saad El-Din Samir Saad Ali,DF,Egypt,70.52631578947368,67.05263157894737,54.10526315789474,69.63157894736842,67.89473684210526,43.0,56.526315789473685
+20,Mahmoud Ahmed Ibrahim Hassan,MF,Egypt,78.0,83.0,63.0,78.0,78.0,22.0,66.0
+21,Amr Medhat Mohsen Warda,FW,Egypt,72.0,77.0,74.0,65.0,72.0,18.0,63.0
+22,Mohamed El Sayed Mohamed El Shenawy Gomaa,GK,Egypt,66.0,71.0,41.0,79.0,68.0,24.0,48.0
+23,Igor Vladimirovich Akinfeev,GK,Russia,80.0,15.0,13.0,53.0,22.0,17.0,10.0
+24,Mário Figueira Fernandes,DF,Russia,73.0,74.0,53.0,91.0,71.0,34.0,67.0
+25,Ilya Olegovich Kutepov,DF,Russia,74.0,38.0,55.0,48.0,54.0,83.0,36.0
+26,Sergei Nikolayevich Ignashevich,DF,Russia,74.4,62.0,49.6,66.6,64.3,54.65,50.1
+27,Andrei Sergeyevich Semyonov,DF,Russia,74.0,55.0,36.0,43.0,70.0,75.0,51.0
+28,Denis Dmitriyevich Cheryshev,MF,Russia,78.0,80.0,61.0,77.0,76.0,61.0,64.0
+29,Daler Adyamovich Kuzyayev,MF,Russia,77.0,78.0,61.0,80.0,79.0,74.0,63.0
+30,Yury Aleksandrovich Gazinsky,MF,Russia,75.0,67.0,44.0,59.0,75.0,75.0,55.0
+31,Alan Yelizbarovich Dzagoev,MF,Russia,74.4,62.0,49.6,66.6,64.3,54.65,50.1
+32,Fyodor Mikhaylovich Smolov,FW,Russia,81.0,77.0,69.0,75.0,78.0,32.0,74.0
+33,Roman Sergeyevich Zobnin,MF,Russia,79.0,82.0,65.0,70.0,82.0,75.0,57.0
+34,Andrey Yevgenyevich Lunyov,GK,Russia,79.0,15.0,17.0,36.0,17.0,20.0,15.0
+35,Fyodor Vasilievich Kudryashov,DF,Russia,73.0,61.0,41.0,74.0,69.0,74.0,46.0
+36,Vladimir Vasilyevich Granat,DF,Russia,72.0,48.0,54.0,65.0,50.0,74.0,41.0
+37,Aleksei Andreyevich Miranchuk,MF,Russia,77.0,78.0,53.0,77.0,79.0,36.0,57.0
+38,Anton Andreyevich Miranchuk,MF,Russia,73.0,71.0,67.0,72.0,73.0,22.0,71.0
+39,Aleksandr Sergeyevich Golovin,MF,Russia,78.0,84.0,79.0,82.0,82.0,70.0,52.0
+40,Yuri Valentinovich Zhirkov,MF,Russia,74.4,62.0,49.6,66.6,64.3,54.65,50.1
+41,Aleksandr Sergeyevich Samedov,MF,Russia,73.0,75.0,65.0,65.0,74.0,28.0,60.0
+42,Vladimir Borisovich Gabulov,GK,Russia,64.0,71.0,36.0,80.0,61.0,47.0,42.0
+43,Aleksandr Yuryevich Yerokhin,MF,Russia,74.0,73.0,54.0,63.0,73.0,73.0,65.0
+44,Artem,FW,Russia,55.0,26.0,23.0,42.0,29.0,52.0,35.0
+45,Igor Aleksandrovich Smolnikov,DF,Russia,79.0,72.0,46.0,80.0,72.0,71.0,41.0
+46,Abdullah Ibrahim Abdullah Al-Mayouf,GK,Saudi Arabia,66.0,19.0,15.0,43.0,15.0,18.0,17.0
+47,Mansoor Ateeg Al-Sobhi Al-Harbi,DF,Saudi Arabia,68.0,65.0,48.0,74.0,64.0,59.0,33.0
+48,Osama Hawsawi,DF,Saudi Arabia,55.0,12.0,10.0,34.0,13.0,7.0,11.0
+49,Ali bin Hadi bin Mohammed Al-Bulaihi,DF,Saudi Arabia,68.0,34.0,23.0,37.0,50.0,65.0,45.0
+50,Omar Hawsawi,DF,Saudi Arabia,55.0,12.0,10.0,34.0,13.0,7.0,11.0
+51,Mohammed bin Ibrahim bin Mohammed Al-Breik,DF,Saudi Arabia,71.0,69.0,67.0,65.0,70.0,63.0,55.0
+52,Salman bin Mohammed bin Mohammed Al-Faraj,MF,Saudi Arabia,73.0,71.0,66.0,81.0,75.0,65.0,61.0
+53,Yahya Sulaiman Ali al-Shehri,MF,Saudi Arabia,70.0,71.0,63.0,80.0,69.0,43.0,61.0
+54,Hattan bin Sultan bin Ahmed Bahebri,MF,Saudi Arabia,68.0,70.0,48.0,81.0,68.0,42.0,42.0
+55,Mohammad Ibrahim Mohammad Al-Sahlawi,FW,Saudi Arabia,54.0,38.0,24.0,46.0,55.0,47.0,35.0
+56,Abdulmalek Abdullah Al-Khaibri,MF,Saudi Arabia,68.0,53.0,37.0,67.0,63.0,72.0,46.0
+57,Mohamed bin Ibrahim bin Abdullah Kanno,MF,Saudi Arabia,70.0,68.0,52.0,73.0,74.0,66.0,59.0
+58,Yasser bin Gharsan bin Saeed Al-Mohammadi Al-Shahrani,DF,Saudi Arabia,72.0,67.0,65.0,80.0,70.0,71.0,62.0
+59,Abdullah bin Ibrahim bin Yahya Otayf,MF,Saudi Arabia,71.0,62.0,53.0,62.0,75.0,69.0,58.0
+60,Abdullah Al-Khaibari,MF,Saudi Arabia,64.0,56.0,39.0,63.0,63.0,60.0,40.0
+61,Housain Ali Al-Mogahwi,MF,Saudi Arabia,70.0,71.0,59.0,73.0,70.0,58.0,49.0
+62,Taiseer Jaber Al-Jassim,MF,Saudi Arabia,72.0,70.0,73.0,80.0,73.0,70.0,75.0
+63,Salem bin Mohammed bin Shafi Al-Dawsari,MF,Saudi Arabia,73.0,78.0,60.0,82.0,72.0,37.0,62.0
+64,Fahad Mosaed al-Muwallad,FW,Saudi Arabia,72.0,71.0,48.0,78.0,68.0,45.0,69.0
+65,Muhannad Ahmed Abu Radeah Assiri,FW,Saudi Arabia,67.0,61.0,52.0,69.0,66.0,28.0,65.0
+66,Yasser Abdullah Nasser Al-Mosailem,GK,Saudi Arabia,68.0,16.0,14.0,49.0,17.0,13.0,20.0
+67,Mohammed bin Khalil bin Ibrahim Al-Owais,GK,Saudi Arabia,71.0,14.0,16.0,37.0,17.0,24.0,19.0
+68,Motaz Ali Hassan Hawsawi,DF,Saudi Arabia,72.0,46.0,33.0,63.0,60.0,73.0,43.0
+69,Néstor Fernando Muslera Micol,GK,Uruguay,81.0,25.0,10.0,68.0,23.0,23.0,24.0
+70,José María Giménez de Vargas,DF,Uruguay,84.0,47.0,44.0,56.0,56.0,85.0,38.0
+71,Diego Roberto Godín Leal,DF,Uruguay,78.0,77.0,60.0,85.0,78.0,64.0,49.0
+72,Guillermo Varela Olivera,DF,Uruguay,70.0,20.0,21.0,30.0,16.0,24.0,30.0
+73,Carlos Andrés Sánchez Arcosa,MF,Uruguay,66.0,58.0,31.0,58.0,67.0,62.0,40.0
+74,Rodrigo Bentancur Colman,MF,Uruguay,78.0,84.0,49.0,68.0,85.0,66.0,50.0
+75,Cristian Gabriel Rodríguez Barotti,MF,Uruguay,54.0,58.0,39.0,82.0,51.0,20.0,41.0
+76,Nahitan Michel Nández Acosta,MF,Uruguay,76.0,74.0,52.0,81.0,76.0,78.0,55.0
+77,Luis Alberto Suárez Díaz,FW,Uruguay,91.0,86.0,84.0,82.0,88.0,41.0,85.0
+78,Giorgian Daniel de Arrascaeta Benedetti,FW,Uruguay,70.9090909090909,62.40909090909091,45.54545454545455,69.5909090909091,63.95454545454545,51.77272727272727,47.90909090909091
+79,Cristhian Ricardo Stuani Curbelo,FW,Uruguay,81.0,78.0,57.0,65.0,79.0,36.0,85.0
+80,Martín Nicolás Campaña Delgado,GK,Uruguay,67.0,64.0,39.0,79.0,66.0,61.0,43.0
+81,Gastón Alexis Silva Perdomo,DF,Uruguay,73.0,66.0,74.0,68.0,71.0,73.0,57.0
+82,Lucas Sebastián Torreira Di Pascua,MF,Uruguay,82.0,78.0,78.0,85.0,81.0,86.0,48.0
+83,Matías Vecino Falero,MF,Uruguay,62.0,62.0,31.0,72.0,61.0,60.0,45.0
+84,Victorio Maximiliano,DF,Uruguay,68.0,73.0,47.0,77.0,75.0,20.0,54.0
+85,Diego Sebastián Laxalt Suárez,MF,Uruguay,60.0,50.0,34.0,66.0,49.0,52.0,38.0
+86,Maximiliano,FW,Uruguay,69.0,71.0,51.0,80.0,70.0,32.0,44.0
+87,Sebastián Coates Nion,DF,Uruguay,57.0,57.0,36.0,59.0,60.0,43.0,43.0
+88,Jonathan Matías Urretaviscaya da Luz,FW,Uruguay,61.0,65.0,46.0,54.0,64.0,18.0,60.0
+89,Edinson Roberto Cavani Gómez,FW,Uruguay,51.0,48.0,40.0,55.0,52.0,43.0,34.0
+90,José Martín Cáceres Silva,DF,Uruguay,78.0,60.0,41.0,79.0,66.0,80.0,50.0
+91,Martín Andrés Silva Leites,GK,Uruguay,73.0,72.0,38.0,82.0,73.0,72.0,41.0
+92,Alireza Safar Beiranvand,GK,Iran,67.33333333333333,57.05555555555556,46.22222222222222,63.94444444444444,58.44444444444444,47.27777777777778,47.0
+93,Mehdi Torabi,MF,Iran,71.0,72.0,72.0,68.0,72.0,58.0,54.0
+94,Ehsan Hajsafi,DF,Iran,70.0,74.0,74.0,79.0,72.0,41.0,71.0
+95,Rouzbeh Cheshmi,MF,Iran,67.33333333333333,57.05555555555556,46.22222222222222,63.94444444444444,58.44444444444444,47.27777777777778,47.0
+96,Milad Mohammadi,DF,Iran,73.0,19.0,16.0,43.0,31.0,22.0,25.0
+97,Saeid Ezatolahi Afagh,MF,Iran,68.0,64.0,61.0,59.0,68.0,69.0,46.0
+98,Masoud Soleimani Shojaei,MF,Iran,67.33333333333333,57.05555555555556,46.22222222222222,63.94444444444444,58.44444444444444,47.27777777777778,47.0
+99,Morteza Pouraliganji,DF,Iran,57.0,25.0,14.0,34.0,28.0,59.0,13.0
+100,Omid Ebrahimi Zarandini,MF,Iran,62.0,38.0,29.0,45.0,43.0,55.0,37.0
+101,Karim Adil Ansarifard,FW,Iran,74.0,74.0,53.0,72.0,75.0,54.0,61.0
+102,Vahid Amiri,MF,Iran,68.0,73.0,44.0,77.0,69.0,34.0,61.0
+103,Mohammad Rashid Mazaheri,GK,Iran,64.0,61.0,52.0,65.0,59.0,36.0,40.0
+104,Mohammad Reza Khanzadeh,DF,Iran,58.0,58.0,47.0,77.0,56.0,54.0,35.0
+105,Saman Ghoddos,FW,Iran,75.0,75.0,81.0,84.0,76.0,38.0,62.0
+106,Pejman Montazeri,DF,Iran,57.0,60.0,44.0,59.0,53.0,50.0,50.0
+107,Reza Ghoochannejhad Nournia,FW,Iran,69.0,68.0,54.0,77.0,69.0,30.0,71.0
+108,Mehdi Taremi,FW,Iran,67.0,72.0,44.0,66.0,67.0,68.0,53.0
+109,Alireza Jahanbakhsh Jirandeh,FW,Iran,77.0,83.0,46.0,76.0,79.0,42.0,58.0
+110,Seyed Majid Hosseini,DF,Iran,61.0,30.0,37.0,43.0,52.0,62.0,40.0
+111,Sardar Azmoun,FW,Iran,68.0,71.0,50.0,74.0,68.0,65.0,58.0
+112,Seyed Ashkan Dejagah,MF,Iran,67.33333333333333,57.05555555555556,46.22222222222222,63.94444444444444,58.44444444444444,47.27777777777778,47.0
+113,Amir Abedzadeh,GK,Iran,73.0,10.0,14.0,53.0,15.0,14.0,11.0
+114,Ramin Rezaeian Semeskandi,DF,Iran,67.33333333333333,57.05555555555556,46.22222222222222,63.94444444444444,58.44444444444444,47.27777777777778,47.0
+115,Yassine Bounou,GK,Morocco,79.0,20.0,19.0,38.0,12.0,12.0,24.0
+116,Achraf Hakimi Mouh,DF,Morocco,78.0,78.0,55.0,75.0,78.0,71.0,46.0
+117,Hamza Mendyl,DF,Morocco,70.0,73.0,38.0,69.0,72.0,73.0,48.0
+118,Manuel Marouane da Costa Trindade Senoussi,DF,Morocco,75.0,50.0,36.0,51.0,56.0,73.0,44.0
+119,Medhi Amine El Mouttaqi Benatia,DF,Morocco,73.4090909090909,67.54545454545455,53.04545454545455,69.4090909090909,68.5,54.5,53.22727272727273
+120,Romain Ghanem Paul Saïss,DF,Morocco,74.0,67.0,43.0,65.0,73.0,78.0,47.0
+121,Hakim Ziyech,MF,Morocco,84.0,84.0,78.0,86.0,83.0,62.0,72.0
+122,Karim El-Ahmadi Aroussi,MF,Morocco,77.0,73.0,50.0,74.0,76.0,75.0,69.0
+123,Ayoub El Kaabi,FW,Morocco,67.0,66.0,33.0,65.0,62.0,14.0,64.0
+124,Younès Belhanda,MF,Morocco,79.0,84.0,78.0,85.0,83.0,66.0,80.0
+125,Fayçal Fajr,MF,Morocco,78.0,76.0,77.0,74.0,79.0,76.0,72.0
+126,Munir Mohand Mohamedi El Kajoui,GK,Morocco,73.0,19.0,16.0,43.0,31.0,22.0,25.0
+127,Khalid Boutaïb,FW,Morocco,59.0,59.0,44.0,66.0,63.0,54.0,48.0
+128,Moubarak,MF,Morocco,75.0,75.0,57.0,81.0,76.0,74.0,36.0
+129,Youssef Aït Bennasser,MF,Morocco,75.0,78.0,56.0,76.0,80.0,67.0,42.0
+130,Noureddine,MF,Morocco,67.0,67.0,74.0,68.0,71.0,60.0,60.0
+131,Nabil Dirar,DF,Morocco,75.0,77.0,62.0,76.0,78.0,55.0,52.0
+132,Amine Harit,MF,Morocco,78.0,86.0,54.0,90.0,83.0,39.0,57.0
+133,Youssef En-Nesyri,FW,Morocco,74.0,75.0,47.0,68.0,72.0,31.0,59.0
+134,Aziz Bouhaddouz,FW,Morocco,70.0,63.0,64.0,58.0,68.0,33.0,73.0
+135,Sofyan Amrabat,MF,Morocco,73.0,75.0,53.0,70.0,75.0,70.0,50.0
+136,Ahmed Reda Tagnaouti,GK,Morocco,58.0,57.0,62.0,60.0,55.0,55.0,38.0
+137,Mehdi François Carcela-González,MF,Morocco,77.0,84.0,71.0,89.0,81.0,39.0,65.0
+138,Rui Pedro dos Santos Patrício,GK,Portugal,83.0,20.0,16.0,61.0,23.0,22.0,32.0
+139,Bruno Eduardo Regufe Alves,DF,Portugal,73.0,64.0,78.0,66.0,63.0,63.0,73.0
+140,Kepler Laveran de Lima Ferreira,DF,Portugal,85.0,58.0,47.0,63.0,62.0,85.0,57.0
+141,Manuel Henrique Tavares Fernandes,MF,Portugal,69.0,37.0,32.0,51.0,48.0,71.0,37.0
+142,Raphaël Adelino José Guerreiro,DF,Portugal,81.0,83.0,82.0,88.0,84.0,84.0,44.0
+143,José Miguel da Rocha Fonte,DF,Portugal,65.0,7.0,10.0,36.0,14.0,7.0,14.0
+144,Portuguese professional footballer,FW,Portugal,75.54545454545455,59.77272727272727,49.72727272727273,69.13636363636364,61.40909090909091,52.90909090909091,53.90909090909091
+145,João Filipe Iria Santos Moutinho,MF,Portugal,67.0,61.0,54.0,68.0,64.0,65.0,61.0
+146,André Miguel Valente da Silva,FW,Portugal,63.0,62.0,46.0,85.0,60.0,18.0,53.0
+147,João Mário Naval da Costa Eduardo,MF,Portugal,81.0,83.0,67.0,81.0,83.0,72.0,66.0
+148,Bernardo Mota Veiga de Carvalho e Silva,MF,Portugal,86.0,92.0,67.0,90.0,91.0,49.0,68.0
+149,Anthony Lopes,GK,Portugal,85.0,15.0,14.0,67.0,21.0,25.0,16.0
+150,Rúben dos Santos Gato Alves Dias,DF,Portugal,79.0,54.0,26.0,47.0,60.0,76.0,45.0
+151,William Silva de Carvalho,MF,Portugal,83.0,78.0,50.0,51.0,80.0,81.0,60.0
+152,Ricardo Domingos Barbosa Pereira,DF,Portugal,70.0,71.0,66.0,71.0,69.0,33.0,68.0
+153,Bruno Miguel Borges Fernandes,MF,Portugal,66.0,56.0,42.0,67.0,61.0,30.0,72.0
+154,Gonçalo Manuel Ganchinho Guedes,FW,Portugal,82.0,86.0,70.0,85.0,81.0,50.0,69.0
+155,Gelson Dany Batalha Martins,FW,Portugal,81.0,85.0,60.0,94.0,81.0,43.0,66.0
+156,Mário Rui Silva Duarte,DF,Portugal,69.0,73.0,71.0,66.0,70.0,65.0,67.0
+157,Ricardo Andrade Quaresma Bernardo,FW,Portugal,63.0,64.0,48.0,74.0,62.0,61.0,51.0
+158,Cédric Ricardo Alves Soares,DF,Portugal,77.0,75.0,64.0,74.0,76.0,74.0,60.0
+159,António Alberto Bastos Pimparel,GK,Portugal,76.0,14.0,10.0,69.0,18.0,12.0,23.0
+160,Adrien Sébastien Perruchet da Silva,MF,Portugal,78.0,77.0,74.0,67.0,80.0,78.0,84.0
+161,David de Gea Quintana,GK,Spain,91.0,18.0,19.0,62.0,38.0,30.0,40.0
+162,Daniel,DF,Spain,54.0,59.0,34.0,70.0,53.0,14.0,55.0
+163,Gerard Piqué Bernabeu,DF,Spain,88.0,63.0,43.0,58.0,82.0,88.0,69.0
+164,José Ignacio Fernández Iglesias,DF,Spain,83.0,55.0,37.0,60.0,78.0,81.0,45.0
+165,Sergio Busquets Burgos,MF,Spain,89.0,80.0,68.0,66.0,88.0,87.0,60.0
+166,Andrés Iniesta Luján,MF,Spain,85.0,88.0,70.0,79.0,91.0,65.0,71.0
+167,Saúl Ñíguez Esclapez,MF,Spain,85.0,80.0,60.0,76.0,85.0,78.0,55.0
+168,Jorge Resurrección Merodio,MF,Spain,85.0,80.0,76.0,74.0,85.0,72.0,59.0
+169,Rodrigo Moreno Machado,FW,Spain,83.0,82.0,67.0,84.0,82.0,31.0,77.0
+170,Thiago Alcântara do Nascimento,MF,Spain,87.0,90.0,77.0,90.0,90.0,78.0,75.0
+171,Lucas Vázquez Iglesias,FW,Spain,83.0,82.0,71.0,86.0,82.0,62.0,56.0
+172,Álvaro Odriozola Arzalluz,DF,Spain,80.0,69.0,30.0,78.0,77.0,75.0,62.0
+173,Kepa Arrizabalaga Revuelta,GK,Spain,84.0,10.0,19.0,41.0,16.0,21.0,24.0
+174,César Azpilicueta Tanco,DF,Spain,58.0,51.0,37.0,62.0,53.0,17.0,62.0
+175,Sergio Ramos García,DF,Spain,90.0,65.0,72.0,78.0,83.0,88.0,82.0
+176,Ignacio,DF,Spain,72.0,76.0,62.0,75.0,74.0,30.0,59.0
+177,Iago Aspas Juncal,FW,Spain,84.0,86.0,76.0,87.0,85.0,39.0,82.0
+178,Jordi Alba Ramos,DF,Spain,87.0,80.0,63.0,90.0,84.0,84.0,59.0
+179,Diego da Silva Costa,FW,Spain,62.0,64.0,40.0,81.0,62.0,25.0,49.0
+180,Marco Asensio Willemsen,MF,Spain,84.0,85.0,76.0,79.0,85.0,45.0,62.0
+181,David Josué Jiménez Silva,FW,Spain,79.0,64.0,46.0,51.0,76.0,80.0,50.0
+182,Francisco Román Alarcón Suárez,MF,Spain,62.0,30.0,21.0,52.0,58.0,62.0,40.0
+183,José Manuel,GK,Spain,72.0,77.0,55.0,89.0,78.0,68.0,62.0
+184,Mathew David Ryan,GK,Australia,80.0,13.0,12.0,53.0,24.0,23.0,25.0
+185,Miloš Degenek,DF,Australia,74.0,58.0,44.0,78.0,64.0,70.0,58.0
+186,James Gregory Meredith,DF,Australia,69.0,64.0,24.0,63.0,65.0,65.0,45.0
+187,Timothy Filiga Cahill,FW,Australia,69.0,69.0,41.0,75.0,66.0,22.0,60.0
+188,Mark Daniel Milligan,DF,Australia,72.0,62.0,62.0,64.0,66.0,68.0,80.0
+189,Matthew John Jurman,DF,Australia,69.0,48.0,29.0,62.0,47.0,71.0,37.0
+190,Mathew Allan Leckie,FW,Australia,75.0,76.0,36.0,75.0,75.0,54.0,69.0
+191,Massimo Corey Luongo,MF,Australia,73.0,71.0,46.0,79.0,72.0,72.0,52.0
+192,Tomi Juric,FW,Australia,69.0,67.0,60.0,54.0,66.0,48.0,73.0
+193,Robbie Thomas Kruse,FW,Australia,72.0,70.0,54.0,75.0,72.0,40.0,65.0
+194,Andrew Nabbout,FW,Australia,68.0,67.0,45.0,72.0,68.0,22.0,52.0
+195,Bradley Scott Jones,GK,Australia,75.0,18.0,12.0,25.0,22.0,23.0,35.0
+196,Aaron Frank Mooy,MF,Australia,78.0,74.0,72.0,69.0,79.0,71.0,73.0
+197,Jamie Maclaren,FW,Australia,69.0,66.0,59.0,84.0,66.0,52.0,72.0
+198,Michael John,MF,Australia,65.0,70.0,44.0,86.0,68.0,20.0,44.0
+199,Aziz Eraltay Behich,DF,Australia,73.0,74.0,55.0,83.0,72.0,66.0,47.0
+200,Daniel Arzani,FW,Australia,69.0,76.0,40.0,80.0,72.0,23.0,64.0
+201,Daniel Vukovic,GK,Australia,74.0,11.0,13.0,41.0,18.0,17.0,37.0
+202,Joshua Robert Risdon,DF,Australia,72.0,64.0,38.0,63.0,68.0,74.0,43.0
+203,Trent Lucas Sainsbury,DF,Australia,74.0,55.0,25.0,67.0,55.0,77.0,63.0
+204,Dimitrios Petratos,FW,Australia,70.0,69.0,70.0,85.0,67.0,45.0,62.0
+205,Jackson Alexander Irvine,MF,Australia,71.0,67.0,63.0,62.0,71.0,69.0,55.0
+206,Tomas Petar Rogic,MF,Australia,76.0,82.0,62.0,74.0,82.0,44.0,56.0
+207,Kasper Peter Schmeichel,GK,Denmark,83.0,12.0,15.0,62.0,40.0,20.0,26.0
+208,Michael Krohn-Dehli,MF,Denmark,73.0,71.0,83.0,71.0,73.0,71.0,76.0
+209,Jannik Vestergaard,DF,Denmark,79.0,44.0,52.0,29.0,54.0,83.0,75.0
+210,Simon Thorup Kjær,DF,Denmark,67.0,70.0,57.0,81.0,64.0,44.0,58.0
+211,Jonas Bruun Knudsen,DF,Denmark,69.0,62.0,62.0,73.0,65.0,65.0,41.0
+212,Andreas Bødtker Christensen,DF,Denmark,80.0,66.0,22.0,61.0,73.0,82.0,36.0
+213,William Vitved Kvist,MF,Denmark,60.0,64.0,52.0,65.0,62.0,53.0,48.0
+214,Thomas Joseph Delaney,MF,Denmark,82.0,73.0,68.0,73.0,77.0,85.0,60.0
+215,Nicolai Mick Jørgensen,FW,Denmark,77.0,74.0,62.0,65.0,77.0,31.0,68.0
+216,Christian Dannemann Eriksen,MF,Denmark,65.0,68.0,40.0,76.0,60.0,24.0,52.0
+217,Martin Christensen Braithwaite,FW,Denmark,75.0,75.0,75.0,84.0,76.0,31.0,73.0
+218,Kasper Dolberg Rasmussen,FW,Denmark,67.0,38.0,22.0,44.0,55.0,66.0,37.0
+219,Mathias Jattah-Njie Jørgensen,DF,Denmark,58.0,59.0,34.0,79.0,59.0,19.0,52.0
+220,Henrik Dalsgaard,DF,Denmark,71.0,66.0,52.0,68.0,67.0,75.0,52.0
+221,Viktor Gorridsen Fischer,FW,Denmark,77.0,79.0,65.0,82.0,79.0,34.0,62.0
+222,Jonas Bybjerg Lössl,GK,Denmark,76.0,15.0,13.0,32.0,19.0,20.0,12.0
+223,Jens Stryger Larsen,DF,Denmark,66.0,71.0,64.0,75.0,67.0,23.0,71.0
+224,Lukas Reiff Lerager,MF,Denmark,75.0,68.0,43.0,63.0,74.0,75.0,48.0
+225,Lasse Schöne,MF,Denmark,77.0,76.0,86.0,68.0,81.0,79.0,76.0
+226,Yussuf Yurary Poulsen,FW,Denmark,80.0,75.0,43.0,75.0,75.0,48.0,59.0
+227,Andreas Evald Cornelius,FW,Denmark,74.0,66.0,56.0,49.0,72.0,28.0,65.0
+228,Frederik Riis Rønnow,GK,Denmark,75.0,13.0,7.0,34.0,12.0,12.0,17.0
+229,Pione Sisto Ifolo Emirmija,FW,Denmark,78.0,86.0,75.0,82.0,80.0,51.0,66.0
+230,Hugo Hadrien Dominique Lloris,GK,France,88.0,10.0,10.0,55.0,34.0,27.0,40.0
+231,Benjamin Jacques Marcel Pavard,DF,France,79.0,66.0,51.0,68.0,76.0,82.0,51.0
+232,Presnel Kimpembe,DF,France,83.0,58.0,32.0,74.0,78.0,83.0,50.0
+233,Raphaël Xavier Varane,DF,France,86.0,57.0,54.0,63.0,77.0,82.0,43.0
+234,Samuel Yves Um Titi,DF,France,87.0,69.0,62.0,68.0,77.0,87.0,61.0
+235,Paul Labile Pogba,MF,France,88.0,87.0,82.0,76.0,90.0,64.0,82.0
+236,Antoine Griezmann,FW,France,89.0,87.0,84.0,90.0,90.0,49.0,83.0
+237,Thomas Benoît Lemar,FW,France,83.0,85.0,81.0,87.0,86.0,66.0,68.0
+238,Olivier Jonathan Giroud,FW,France,82.0,70.0,65.0,57.0,83.0,42.0,83.0
+239,Kylian Mbappé Lottin,FW,France,88.0,90.0,63.0,92.0,91.0,38.0,70.0
+240,Masour Ousmane Dembélé,FW,France,77.0,75.0,35.0,77.0,79.0,22.0,82.0
+241,Corentin Tolisso,MF,France,83.0,77.0,73.0,75.0,81.0,76.0,70.0
+242,N'Golo Kanté,MF,France,89.0,79.0,49.0,82.0,80.0,92.0,54.0
+243,Blaise Matuidi,MF,France,85.0,78.0,52.0,83.0,79.0,86.0,56.0
+244,Steven Nkemboanza Mike Christopher Nzonzi,MF,France,81.0,70.0,40.0,36.0,81.0,83.0,57.0
+245,Steve Mandanda Mpidi,GK,France,82.0,15.0,12.0,52.0,17.0,23.0,11.0
+246,Adil Rami,DF,France,80.0,56.0,55.0,54.0,68.0,78.0,48.0
+247,Nabil Fekir,FW,France,84.0,90.0,79.0,84.0,89.0,28.0,76.0
+248,Djibril Sidibé,DF,France,79.0,77.0,73.0,70.0,78.0,75.0,43.0
+249,Florian Tristan Mariano Thauvin,FW,France,84.0,85.0,72.0,86.0,86.0,42.0,74.0
+250,Lucas François Bernard Hernandez,DF,France,83.0,65.0,39.0,70.0,79.0,82.0,42.0
+251,Benjamin Mendy,DF,France,81.0,80.0,34.0,68.0,79.0,79.0,50.0
+252,Alphonse Francis Areola,GK,France,81.0,12.0,16.0,53.0,22.0,23.0,25.0
+253,Pedro David Gallese Quiroz,GK,Peru,73.0,60.0,58.0,78.0,74.0,72.0,64.0
+254,Alberto Junior Rodríguez Valdelomar,DF,Peru,68.0,11.0,13.0,49.0,19.0,11.0,15.0
+255,Aldo Sebastián Corzo Chávez,DF,Peru,73.0,73.0,66.0,73.0,67.0,48.0,68.0
+256,Anderson Santamaría Bardales,DF,Peru,68.0,66.0,64.0,60.0,65.0,65.0,62.0
+257,Miguel Gianpierre Araujo Blanco,DF,Peru,68.63157894736842,60.26315789473684,49.89473684210526,65.0,61.578947368421055,48.36842105263158,53.10526315789474
+258,Miguel Ángel Trauco Saavedra,DF,Peru,69.0,66.0,59.0,67.0,67.0,29.0,67.0
+259,Cristopher Paolo César Hurtado Huertas,MF,Peru,74.0,48.0,28.0,37.0,56.0,75.0,33.0
+260,Christian Alberto Cueva Bravo,MF,Peru,62.0,60.0,32.0,61.0,65.0,67.0,42.0
+261,José Paolo Guerrero Gonzales,FW,Peru,70.0,71.0,44.0,62.0,72.0,69.0,50.0
+262,Jefferson Agustín Farfán Guadalupe,FW,Peru,78.0,74.0,75.0,75.0,79.0,39.0,79.0
+263,Raúl Mario Ruidíaz Misitich,FW,Peru,76.0,76.0,69.0,83.0,74.0,28.0,70.0
+264,Carlos Alberto Cáceda Ollaguez,GK,Peru,60.0,59.0,40.0,55.0,55.0,53.0,62.0
+265,Renato Fabrizio Tapia Cortijo,MF,Peru,68.63157894736842,60.26315789473684,49.89473684210526,65.0,61.578947368421055,48.36842105263158,53.10526315789474
+266,Andy Jorman Polo Andrade,MF,Peru,68.63157894736842,60.26315789473684,49.89473684210526,65.0,61.578947368421055,48.36842105263158,53.10526315789474
+267,Christian Guillermo Martín Ramos Garagay,DF,Peru,70.0,62.0,76.0,79.0,65.0,70.0,38.0
+268,Wilder José Cartagena Mendoza,MF,Peru,68.63157894736842,60.26315789473684,49.89473684210526,65.0,61.578947368421055,48.36842105263158,53.10526315789474
+269,Luis Jan Piers Advíncula Castrillón,DF,Peru,74.0,76.0,63.0,80.0,74.0,63.0,64.0
+270,André Martín Carrillo Díaz,FW,Peru,57.0,63.0,48.0,50.0,61.0,20.0,67.0
+271,Víctor Yoshimar Yotún Flores,MF,Peru,73.0,72.0,69.0,83.0,73.0,62.0,51.0
+272,Edison Michael Flores Peralta,FW,Peru,67.0,74.0,59.0,88.0,69.0,34.0,62.0
+273,José Aurelio Carvallo Alonso,GK,Peru,60.0,52.0,31.0,69.0,53.0,59.0,39.0
+274,Nilson Evair Loyola Morales,DF,Peru,65.0,62.0,40.0,63.0,62.0,45.0,51.0
+275,Pedro Jesús Aquino Sánchez,MF,Peru,67.0,20.0,14.0,23.0,20.0,10.0,25.0
+276,Nahuel Ignacio Guzmán,GK,Argentina,77.0,21.0,22.0,70.0,25.0,29.0,12.0
+277,Gabriel Iván Mercado,DF,Argentina,79.0,57.0,54.0,66.0,70.0,80.0,49.0
+278,Nicolás Alejandro Tagliafico,DF,Argentina,80.0,74.0,40.0,79.0,74.0,77.0,46.0
+279,Cristian Daniel Ansaldi,DF,Argentina,77.0,79.0,47.0,77.0,79.0,76.0,52.0
+280,Lucas Rodrigo Biglia,MF,Argentina,82.0,80.0,76.0,76.0,84.0,82.0,72.0
+281,Federico Julián Fazio,DF,Argentina,65.0,73.0,36.0,63.0,64.0,66.0,42.0
+282,Éver Maximiliano David Banega,MF,Argentina,84.0,84.0,81.0,79.0,86.0,76.0,78.0
+283,Marcos Javier Acuña,DF,Argentina,80.0,85.0,78.0,84.0,83.0,76.0,74.0
+284,Gonzalo Gerardo Higuaín,FW,Argentina,87.0,83.0,62.0,75.0,84.0,20.0,70.0
+285,Argentine professional footballer,FW,Argentina,79.54545454545455,67.9090909090909,56.04545454545455,74.77272727272727,71.5909090909091,55.36363636363637,57.09090909090909
+286,Ángel Fabián Di María,MF,Argentina,74.0,76.0,67.0,87.0,77.0,43.0,69.0
+287,Franco Armani,GK,Argentina,80.0,19.0,16.0,40.0,32.0,21.0,20.0
+288,Maximiliano Eduardo Meza,MF,Argentina,68.0,64.0,50.0,82.0,64.0,52.0,53.0
+289,Javier Alejandro Mascherano,DF,Argentina,80.0,58.0,50.0,72.0,80.0,85.0,60.0
+290,Enzo Nicolás Pérez,MF,Argentina,79.0,85.0,73.0,91.0,81.0,26.0,80.0
+291,Faustino Marcos Alberto Rojo,DF,Argentina,79.0,64.0,57.0,68.0,67.0,77.0,55.0
+292,Nicolás Hernán Gonzalo Otamendi,DF,Argentina,84.0,51.0,39.0,64.0,70.0,83.0,45.0
+293,Eduardo Antonio Salvio,DF,Argentina,81.0,85.0,64.0,82.0,84.0,60.0,75.0
+294,Sergio Leonel Agüero del Castillo,FW,Argentina,89.0,89.0,73.0,86.0,89.0,24.0,83.0
+295,Giovani Lo Celso,MF,Argentina,82.0,84.0,72.0,82.0,84.0,65.0,60.0
+296,Paulo Exequiel Dybala,FW,Argentina,89.0,92.0,88.0,91.0,92.0,32.0,86.0
+297,Cristian David Pavón,MF,Argentina,79.0,79.0,77.0,92.0,76.0,49.0,59.0
+298,Wilfredo Daniel Caballero Lazcano,GK,Argentina,75.0,12.0,11.0,39.0,30.0,19.0,16.0
+299,Dominik Livaković,GK,Croatia,74.0,12.0,11.0,41.0,18.0,10.0,15.0
+300,Šime Vrsaljko,DF,Croatia,81.0,74.0,57.0,67.0,79.0,80.0,52.0
+301,Ivan Strinić,DF,Croatia,74.0,70.0,55.0,69.0,74.0,76.0,61.0
+302,Ivan Perišić,FW,Croatia,85.0,84.0,75.0,78.0,85.0,69.0,76.0
+303,Vedran Ćorluka,DF,Croatia,82.0,65.0,60.0,57.0,73.0,77.0,49.0
+304,Dejan Lovren,DF,Croatia,81.0,63.0,18.0,50.0,67.0,81.0,52.0
+305,Ivan Rakitić,MF,Croatia,87.0,82.0,82.0,73.0,85.0,81.0,82.0
+306,Mateo Kovačić,MF,Croatia,83.0,88.0,68.0,85.0,89.0,76.0,59.0
+307,Andrej Kramarić,FW,Croatia,83.0,87.0,74.0,82.0,86.0,21.0,91.0
+308,Luka Modrić,MF,Croatia,91.0,90.0,78.0,92.0,92.0,83.0,82.0
+309,Marcelo Brozović,MF,Croatia,81.0,81.0,74.0,74.0,83.0,81.0,69.0
+310,Lovre Kalinić,GK,Croatia,76.0,11.0,13.0,26.0,15.0,23.0,22.0
+311,Tin Jedvaj,DF,Croatia,76.0,60.0,30.0,67.0,66.0,75.0,44.0
+312,Filip Bradarić,MF,Croatia,70.0,61.0,40.0,62.0,75.0,64.0,44.0
+313,Duje Ćaleta-Car,DF,Croatia,73.0,54.0,31.0,47.0,58.0,69.0,38.0
+314,Nikola Kalinić,FW,Croatia,79.0,73.0,54.0,69.0,78.0,42.0,70.0
+315,Mario Mandžukić,FW,Croatia,85.0,78.0,49.0,67.0,79.0,66.0,76.0
+316,Ante Rebić,FW,Croatia,80.0,84.0,58.0,75.0,80.0,29.0,63.0
+317,Milan Badelj,MF,Croatia,79.0,72.0,58.0,68.0,79.0,78.0,68.0
+318,Marko Pjaca,FW,Croatia,76.0,86.0,72.0,79.0,87.0,30.0,72.0
+319,Domagoj Vida,DF,Croatia,80.0,53.0,35.0,64.0,66.0,81.0,51.0
+320,Josip Pivarić,DF,Croatia,73.0,71.0,71.0,68.0,72.0,70.0,59.0
+321,Danijel Subašić,GK,Croatia,82.0,11.0,39.0,42.0,19.0,20.0,23.0
+322,Hannes Þór Halldórsson,GK,Iceland,69.0,10.0,13.0,25.0,16.0,13.0,41.0
+323,Birkir Már Sævarsson,DF,Iceland,66.0,51.0,36.0,64.0,60.0,62.0,49.0
+324,Samúel Kári Friðjónsson,MF,Iceland,62.0,62.0,57.0,64.0,64.0,55.0,45.0
+325,Albert Guðmundsson,MF,Iceland,69.0,73.0,62.0,68.0,78.0,29.0,65.0
+326,Sverrir Ingi Ingason,DF,Iceland,73.0,47.0,46.0,58.0,60.0,74.0,50.0
+327,Ragnar Sigurðsson,DF,Iceland,73.0,30.0,32.0,56.0,52.0,74.0,65.0
+328,Jóhann Berg Guðmundsson,MF,Iceland,79.0,79.0,77.0,76.0,78.0,62.0,70.0
+329,Birkir Bjarnason,MF,Iceland,69.0,65.0,34.0,73.0,72.0,63.0,50.0
+330,Björn Bergmann Sigurðarson,FW,Iceland,66.0,67.0,57.0,76.0,65.0,22.0,56.0
+331,Gylfi Þór Sigurðsson,MF,Iceland,82.0,80.0,86.0,68.0,85.0,55.0,79.0
+332,Alfreð Finnbogason,FW,Iceland,79.0,75.0,51.0,67.0,75.0,20.0,89.0
+333,Frederik August Albrecht Schram,GK,Iceland,56.0,13.0,16.0,31.0,21.0,19.0,30.0
+334,Rúnar Alex Rúnarsson,GK,Iceland,70.0,13.0,14.0,43.0,32.0,12.0,22.0
+335,Kári Árnason,DF,Iceland,70.0,49.0,51.0,34.0,53.0,76.0,52.0
+336,Hólmar Örn Eyjólfsson,DF,Iceland,68.0,54.0,38.0,46.0,53.0,69.0,45.0
+337,Ólafur Ingi Skúlason,MF,Iceland,71.0,58.0,57.0,59.0,66.0,69.0,60.0
+338,Aron Einar Malmquist Gunnarsson,MF,Iceland,73.0,66.0,59.0,73.0,72.0,77.0,52.0
+339,Hörður Björgvin Magnússon,DF,Iceland,73.0,50.0,60.0,52.0,57.0,68.0,39.0
+340,Rúrik Gíslason,MF,Iceland,69.0,69.0,59.0,67.0,62.0,40.0,52.0
+341,Emil Hallfreðsson,MF,Iceland,72.0,74.0,72.0,61.0,75.0,72.0,69.0
+342,Arnór Ingvi Traustason,MF,Iceland,68.0,69.0,66.0,78.0,67.0,67.0,57.0
+343,Jón Daði Böðvarsson,FW,Iceland,70.0,67.0,56.0,62.0,72.0,22.0,62.0
+344,Ari Freyr Skúlason,DF,Iceland,68.0,67.0,65.0,80.0,69.0,62.0,63.0
+345,Ikechukwu Vincent Ezenwa,GK,Nigeria,68.0,66.0,43.0,83.0,66.0,34.0,67.0
+346,Brian Oladapo Idowu,DF,Nigeria,64.0,15.0,12.0,35.0,16.0,25.0,23.0
+347,Elderson Uwa Echiéjilé,DF,Nigeria,70.9,61.5,42.95,68.2,62.5,47.65,52.95
+348,Onyinye Wilfred Ndidi,MF,Nigeria,81.0,74.0,58.0,67.0,76.0,84.0,55.0
+349,William,DF,Nigeria,60.0,55.0,52.0,69.0,56.0,16.0,56.0
+350,Leon Aderemi Balogun,DF,Nigeria,75.0,60.0,38.0,51.0,64.0,73.0,39.0
+351,Ahmed Musa,FW,Nigeria,75.0,73.0,48.0,87.0,73.0,24.0,69.0
+352,Oghenekaro Peter Etebo,MF,Nigeria,72.0,74.0,66.0,85.0,75.0,68.0,69.0
+353,Odion Jude Ighalo,FW,Nigeria,77.0,80.0,53.0,75.0,76.0,30.0,63.0
+354,Mikel John Obi,MF,Nigeria,63.0,67.0,66.0,68.0,66.0,51.0,51.0
+355,Victor Moses,FW,Nigeria,78.0,82.0,61.0,76.0,81.0,73.0,75.0
+356,Shehu Usman Abdullahi,DF,Nigeria,71.0,72.0,32.0,69.0,70.0,17.0,66.0
+357,Simeon Tochukwu Nwankwo,FW,Nigeria,72.0,58.0,34.0,68.0,57.0,21.0,61.0
+358,Kelechi Promise Iheanacho,FW,Nigeria,74.0,75.0,64.0,72.0,76.0,21.0,73.0
+359,Joel Chukwuma Obi,MF,Nigeria,74.0,77.0,56.0,85.0,77.0,74.0,59.0
+360,Daniel Akpeyi,GK,Nigeria,64.0,10.0,13.0,30.0,11.0,7.0,12.0
+361,Ogenyi Eddy Onazi,MF,Nigeria,75.0,72.0,50.0,90.0,75.0,74.0,60.0
+362,Alexander Chuka Iwobi,FW,Nigeria,62.0,46.0,32.0,54.0,51.0,58.0,39.0
+363,Ugochukwu John Ogu,MF,Nigeria,70.9,61.5,42.95,68.2,62.5,47.65,52.95
+364,Chidozie Collins Awaziem,DF,Nigeria,74.0,57.0,25.0,66.0,62.0,73.0,40.0
+365,Tyronne Efe Ebuehi,DF,Nigeria,67.0,64.0,33.0,69.0,62.0,62.0,47.0
+366,Kenneth Josiah Omeruo,DF,Nigeria,72.0,53.0,23.0,65.0,60.0,68.0,35.0
+367,Francis Odinaka Uzoho,GK,Nigeria,70.9,61.5,42.95,68.2,62.5,47.65,52.95
+368,Álisson Ramsés Becker,GK,Brazil,87.0,27.0,18.0,40.0,30.0,11.0,23.0
+369,Thiago Emiliano da Silva,DF,Brazil,88.0,62.0,64.0,68.0,80.0,89.0,60.0
+370,João Miranda de Souza Filho,DF,Brazil,84.0,67.0,39.0,61.0,71.0,85.0,49.0
+371,Pedro Tonon Geromel,DF,Brazil,71.0,63.0,55.0,64.0,66.0,42.0,70.0
+372,Carlos Henrique Casimiro,MF,Brazil,87.0,69.0,74.0,62.0,78.0,86.0,66.0
+373,Filipe Luís Kasmirski,DF,Brazil,85.0,77.0,75.0,74.0,83.0,84.0,65.0
+374,Douglas Costa de Souza,FW,Brazil,85.0,92.0,78.0,93.0,91.0,48.0,77.0
+375,Renato Soares de Oliveira Augusto,MF,Brazil,81.0,82.0,75.0,66.0,81.0,72.0,68.0
+376,Gabriel Fernando de Jesus,FW,Brazil,83.0,86.0,54.0,92.0,85.0,32.0,78.0
+377,Neymar da Silva Santos Júnior,FW,Brazil,92.0,96.0,87.0,96.0,95.0,36.0,81.0
+378,Philippe Coutinho Correia,MF,Brazil,88.0,91.0,86.0,92.0,92.0,49.0,70.0
+379,Marcelo Vieira da Silva Júnior,DF,Brazil,87.0,90.0,67.0,86.0,92.0,83.0,59.0
+380,Marcos Aoás Corrêa,DF,Brazil,85.0,59.0,32.0,69.0,79.0,85.0,37.0
+381,Danilo Luiz da Silva,DF,Brazil,67.0,70.0,45.0,81.0,72.0,30.0,50.0
+382,José Paulo Bezerra Maciel Júnior,MF,Brazil,85.0,82.0,72.0,71.0,84.0,81.0,71.0
+383,Cássio Roberto Ramos,GK,Brazil,74.0,69.0,54.0,80.0,73.0,75.0,48.0
+384,Fernando Luiz Roza,MF,Brazil,70.0,59.0,34.0,69.0,60.0,68.0,46.0
+385,Frederico Rodrigues de Paula Santos,MF,Brazil,67.0,63.0,54.0,72.0,68.0,65.0,51.0
+386,Willian Borges da Silva,MF,Brazil,82.0,79.0,71.0,65.0,80.0,35.0,80.0
+387,Roberto Firmino Barbosa de Oliveira,FW,Brazil,72.0,73.0,59.0,77.0,72.0,55.0,62.0
+388,Taison Barcellos Freda,FW,Brazil,82.0,87.0,73.0,90.0,85.0,49.0,72.0
+389,Fagner Conserva Lemos,DF,Brazil,80.27272727272727,73.0,60.13636363636363,74.5909090909091,76.5,59.86363636363637,60.40909090909091
+390,Ederson Santana de Moraes,GK,Brazil,64.0,63.0,57.0,73.0,66.0,57.0,46.0
+391,Keilor Antonio Navas Gamboa,GK,Costa Rica,60.0,61.0,54.0,62.0,64.0,31.0,52.0
+392,Jhonny Acosta Zamora,DF,Costa Rica,68.25,53.85,43.0,63.75,57.25,53.6,46.65
+393,Giancarlo González Castro,DF,Costa Rica,77.0,59.0,22.0,58.0,60.0,77.0,35.0
+394,Ian Rey Smith Quirós,DF,Costa Rica,64.0,59.0,35.0,72.0,58.0,57.0,40.0
+395,Celso Borges Mora,MF,Costa Rica,76.0,71.0,69.0,64.0,75.0,74.0,75.0
+396,Óscar Esaú Duarte Gaitán,DF,Costa Rica,76.0,48.0,32.0,54.0,59.0,75.0,37.0
+397,Christian Bolaños Navarro,MF,Costa Rica,72.0,63.0,64.0,68.0,72.0,66.0,60.0
+398,Bryan Josué Oviedo Jiménez,DF,Costa Rica,70.0,71.0,63.0,79.0,72.0,68.0,56.0
+399,Daniel Colindres Solera,MF,Costa Rica,75.0,41.0,29.0,34.0,51.0,78.0,49.0
+400,Bryan Jafet Ruiz González,MF,Costa Rica,67.0,66.0,43.0,40.0,70.0,21.0,62.0
+401,Johan Alberto Venegas Ulloa,FW,Costa Rica,63.0,7.0,11.0,65.0,11.0,13.0,16.0
+402,Joel Nathaniel Campbell Samuels,FW,Costa Rica,67.0,66.0,63.0,70.0,67.0,64.0,50.0
+403,Rodney Wallace Burns,MF,Costa Rica,65.0,63.0,49.0,72.0,58.0,60.0,59.0
+404,Randall Azofeifa Corrales,MF,Costa Rica,68.25,53.85,43.0,63.75,57.25,53.6,46.65
+405,Francisco Javier Calvo Quesada,DF,Costa Rica,67.0,34.0,34.0,69.0,58.0,70.0,46.0
+406,Cristian Esteban Gamboa Luna,DF,Costa Rica,69.0,69.0,54.0,81.0,68.0,62.0,54.0
+407,Yeltsin Ignacio Tejeda Valverde,MF,Costa Rica,61.0,10.0,10.0,37.0,14.0,11.0,11.0
+408,Patrick Alberto Pemberton Bernard,GK,Costa Rica,69.0,74.0,44.0,72.0,70.0,64.0,50.0
+409,Kendall Jamaal Waston Manley,DF,Costa Rica,68.25,53.85,43.0,63.75,57.25,53.6,46.65
+410,David Alberto Guzmán Pérez,MF,Costa Rica,73.0,68.0,47.0,82.0,68.0,71.0,55.0
+411,Marcos Danilo Ureña Porras,FW,Costa Rica,69.0,72.0,64.0,82.0,71.0,35.0,57.0
+412,Kenner Gutiérrez Cerdas,DF,Costa Rica,61.0,60.0,61.0,71.0,59.0,60.0,53.0
+413,Leonel Gerardo Moreira Ledezma,GK,Costa Rica,64.0,15.0,12.0,43.0,20.0,15.0,16.0
+414,Vladimir Stojković,GK,Serbia,65.0,68.0,34.0,77.0,64.0,62.0,41.0
+415,Antonio Rukavina,DF,Serbia,60.0,61.0,54.0,62.0,64.0,31.0,52.0
+416,Duško Tošić,DF,Serbia,74.0,59.0,46.0,30.0,55.0,74.0,43.0
+417,Luka Milivojević,MF,Serbia,79.0,62.0,78.0,58.0,74.0,79.0,87.0
+418,Uroš Spajić,DF,Serbia,73.0,66.0,55.0,54.0,77.0,72.0,72.0
+419,Branislav Ivanović,DF,Serbia,70.0,73.0,51.0,69.0,71.0,59.0,59.0
+420,Andrija Živković,MF,Serbia,77.0,82.0,70.0,85.0,81.0,69.0,60.0
+421,Aleksandar Prijović,FW,Serbia,77.0,70.0,43.0,54.0,75.0,31.0,66.0
+422,Aleksandar Mitrović,FW,Serbia,78.0,66.0,52.0,67.0,75.0,14.0,70.0
+423,Dušan Tadić,MF,Serbia,81.0,85.0,76.0,82.0,86.0,31.0,75.0
+424,Aleksandar Kolarov,DF,Serbia,83.0,80.0,88.0,63.0,77.0,82.0,80.0
+425,Predrag Rajković,GK,Serbia,64.0,16.0,11.0,42.0,24.0,18.0,22.0
+426,Miloš Veljković,DF,Serbia,76.0,52.0,24.0,55.0,67.0,77.0,37.0
+427,Milan Rodić,DF,Serbia,67.0,53.0,42.0,55.0,57.0,63.0,61.0
+428,Nikola Milenković,DF,Serbia,72.0,60.0,22.0,44.0,65.0,74.0,34.0
+429,Marko Grujić,MF,Serbia,76.0,79.0,51.0,68.0,78.0,71.0,57.0
+430,Filip Kostić,MF,Serbia,78.0,83.0,75.0,77.0,80.0,57.0,64.0
+431,Nemanja Radonjić,FW,Serbia,72.0,72.0,54.0,82.0,70.0,22.0,57.0
+432,Luka Jović,FW,Serbia,81.0,79.0,41.0,76.0,81.0,23.0,60.0
+433,Sergej Milinković-Savić,MF,Serbia,85.0,86.0,75.0,66.0,87.0,78.0,56.0
+434,Nemanja Matić,MF,Serbia,84.0,80.0,67.0,44.0,79.0,84.0,64.0
+435,Adem Ljajić,MF,Serbia,79.0,85.0,83.0,81.0,86.0,32.0,75.0
+436,Marko Dmitrović,GK,Serbia,79.0,8.0,9.0,32.0,9.0,17.0,9.0
+437,Yann Sommer,GK,Switzerland,84.0,15.0,13.0,55.0,25.0,21.0,24.0
+438,Stephan Lichtsteiner,DF,Switzerland,77.0,74.0,66.0,73.0,76.0,79.0,64.0
+439,Jacques François Moubandje,DF,Switzerland,72.0,70.0,48.0,65.0,69.0,72.0,56.0
+440,Nico Elvedi,DF,Switzerland,78.0,69.0,29.0,66.0,72.0,79.0,37.0
+441,Manuel Obafemi Akanji,DF,Switzerland,81.0,67.0,27.0,69.0,75.0,79.0,40.0
+442,Michael Rico Lang,DF,Switzerland,77.0,63.0,55.0,66.0,74.0,75.0,59.0
+443,Breel Donald Embolo,FW,Switzerland,76.0,78.0,51.0,69.0,74.0,41.0,66.0
+444,Remo Marco Freuler,MF,Switzerland,77.0,75.0,70.0,71.0,77.0,73.0,61.0
+445,Haris Seferovic,FW,Switzerland,76.0,70.0,64.0,63.0,73.0,35.0,68.0
+446,Granit Xhaka,MF,Switzerland,81.0,70.0,77.0,49.0,80.0,71.0,63.0
+447,Valon Behrami,MF,Switzerland,76.0,70.0,68.0,70.0,74.0,74.0,67.0
+448,Yvon Landry Mvogo Nganoma,GK,Switzerland,76.61904761904762,66.33333333333333,54.04761904761905,68.76190476190476,69.52380952380952,59.285714285714285,57.19047619047619
+449,Ricardo Ivan Rodriguez Araya,DF,Switzerland,71.0,63.0,51.0,64.0,74.0,70.0,49.0
+450,Steven Zuber,MF,Switzerland,76.0,78.0,66.0,74.0,77.0,76.0,58.0
+451,Blerim Džemaili,MF,Switzerland,77.0,77.0,70.0,68.0,78.0,69.0,68.0
+452,Gelson da Conceição Tavares Fernandes,MF,Switzerland,73.0,74.0,53.0,91.0,71.0,34.0,67.0
+453,Denis Lemi Zakaria Lako Lado,MF,Switzerland,69.0,71.0,59.0,84.0,68.0,68.0,49.0
+454,Mario Gavranović,FW,Switzerland,72.0,73.0,55.0,81.0,75.0,45.0,68.0
+455,Josip Drmić,FW,Switzerland,75.0,74.0,51.0,69.0,72.0,35.0,74.0
+456,Danon Issouf Johannes Djourou Gbadjere,DF,Switzerland,76.61904761904762,66.33333333333333,54.04761904761905,68.76190476190476,69.52380952380952,59.285714285714285,57.19047619047619
+457,Roman Bürki,GK,Switzerland,84.0,12.0,12.0,49.0,23.0,18.0,20.0
+458,Fabian Lukas Schär,DF,Switzerland,75.0,64.0,66.0,64.0,69.0,76.0,78.0
+459,Xherdan Shaqiri,MF,Switzerland,82.0,86.0,84.0,84.0,84.0,55.0,65.0
+460,Manuel Peter Neuer,GK,Germany,89.0,30.0,11.0,51.0,46.0,30.0,47.0
+461,Marvin Plattenhardt,DF,Germany,77.0,75.0,89.0,68.0,78.0,72.0,61.0
+462,Jonas Armin Hector,DF,Germany,79.0,74.0,65.0,67.0,77.0,81.0,65.0
+463,Matthias Lukas Ginter,DF,Germany,81.0,62.0,42.0,55.0,72.0,80.0,67.0
+464,Mats Julian Hummels,DF,Germany,88.0,68.0,53.0,63.0,81.0,92.0,68.0
+465,Sami Khedira,MF,Germany,84.0,81.0,68.0,55.0,84.0,86.0,69.0
+466,Julian Draxler,MF,Germany,83.0,88.0,76.0,80.0,89.0,66.0,63.0
+467,Toni Kroos,MF,Germany,90.0,81.0,84.0,70.0,90.0,76.0,73.0
+468,Timo Werner,FW,Germany,84.0,83.0,56.0,81.0,84.0,37.0,72.0
+469,Mesut Özil,MF,Germany,85.0,84.0,77.0,79.0,90.0,24.0,67.0
+470,Marco Reus,FW,Germany,88.0,87.0,84.0,86.0,87.0,48.0,89.0
+471,Kevin Christian Trapp,GK,Germany,81.0,10.0,12.0,42.0,24.0,22.0,17.0
+472,Thomas Müller,MF,Germany,86.0,75.0,59.0,75.0,82.0,58.0,60.0
+473,Leon Christoph Goretzka,MF,Germany,83.0,81.0,75.0,76.0,83.0,82.0,60.0
+474,Niklas Süle,DF,Germany,84.0,42.0,30.0,33.0,63.0,82.0,32.0
+475,Antonio Rüdiger,DF,Germany,82.0,60.0,56.0,59.0,69.0,80.0,40.0
+476,Jérôme Agyenim Boateng,DF,Germany,85.0,64.0,31.0,56.0,70.0,81.0,46.0
+477,Joshua Walter Kimmich,DF,Germany,86.0,80.0,61.0,84.0,85.0,80.0,44.0
+478,Sebastian Rudy,MF,Germany,79.0,78.0,79.0,77.0,82.0,82.0,71.0
+479,Julian Brandt,MF,Germany,81.0,87.0,59.0,82.0,85.0,29.0,54.0
+480,İlkay Gündoğan,MF,Germany,84.0,85.0,74.0,78.0,86.0,77.0,76.0
+481,Marc-André ter Stegen,GK,Germany,89.0,17.0,12.0,37.0,18.0,22.0,25.0
+482,Mario Gómez García,FW,Germany,79.0,71.0,36.0,62.0,71.0,20.0,69.0
+483,José de Jesús Corona Rodríguez,GK,Mexico,64.0,54.0,55.0,51.0,72.0,59.0,53.0
+484,Hugo Ayala Castro,DF,Mexico,75.0,51.0,41.0,63.0,64.0,74.0,55.0
+485,Carlos Joel Salcedo Hernández,DF,Mexico,74.0,78.0,34.0,74.0,74.0,22.0,70.0
+486,Rafael Márquez Álvarez,DF,Mexico,74.0,56.0,38.0,45.0,63.0,75.0,35.0
+487,Érick Gabriel Gutiérrez Galaviz,MF,Mexico,77.0,74.0,51.0,69.0,77.0,77.0,67.0
+488,Jonathan dos Santos Ramírez,MF,Mexico,70.0,55.0,36.0,57.0,63.0,70.0,51.0
+489,Miguel Arturo Layún Prado,MF,Mexico,69.0,46.0,41.0,60.0,57.0,64.0,51.0
+490,Marco Jhonfai Fabián de la Mora,FW,Mexico,68.0,64.0,62.0,71.0,67.0,67.0,62.0
+491,Raúl Alonso Jiménez Rodríguez,FW,Mexico,76.0,25.0,65.0,54.0,73.0,72.0,46.0
+492,Giovani dos Santos Ramírez,MF,Mexico,75.0,78.0,77.0,88.0,78.0,28.0,70.0
+493,Carlos Alberto Vela Garrido,FW,Mexico,59.0,52.0,46.0,54.0,60.0,52.0,49.0
+494,Alfredo Talavera Díaz,GK,Mexico,57.0,63.0,48.0,50.0,61.0,20.0,67.0
+495,Francisco Guillermo Ochoa Magaña,GK,Mexico,69.0,27.0,25.0,31.0,35.0,67.0,38.0
+496,Javier Hernández Balcázar,FW,Mexico,79.0,73.0,52.0,75.0,77.0,26.0,74.0
+497,Héctor Alfredo Moreno Herrera,DF,Mexico,68.0,60.0,65.0,54.0,64.0,66.0,61.0
+498,Héctor Miguel Herrera López,DF,Mexico,82.0,76.0,63.0,66.0,78.0,82.0,64.0
+499,Jesús Manuel Corona Ruíz,MF,Mexico,71.0,75.0,65.0,87.0,74.0,49.0,66.0
+500,José Andrés Guardado Hernández,MF,Mexico,62.0,56.0,34.0,67.0,58.0,56.0,41.0
+501,Oribe Peralta Morones,FW,Mexico,75.0,72.0,56.0,77.0,76.0,42.0,73.0
+502,Javier Ignacio Aquino Carmona,MF,Mexico,77.0,80.0,63.0,91.0,77.0,37.0,67.0
+503,Edson Omar Álvarez Velázquez,DF,Mexico,60.0,60.0,38.0,85.0,52.0,44.0,48.0
+504,Hirving Rodrigo Lozano Bahena,FW,Mexico,82.0,84.0,65.0,91.0,81.0,45.0,64.0
+505,Jesús Daniel Gallardo Vasconcelos,MF,Mexico,57.0,54.0,41.0,63.0,55.0,44.0,46.0
+506,Kim Seung-gyu,GK,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+507,Lee Yong,DF,South Korea,65.0,58.0,62.0,64.0,60.0,58.0,67.0
+508,Jung Seung-hyun,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+509,Oh Ban-Suk,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+510,Yun Young-sun,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+511,Park Joo-ho,DF,South Korea,66.0,72.0,56.0,82.0,69.0,41.0,55.0
+512,Son Heung-min,FW,South Korea,68.0,73.0,52.0,88.0,68.0,25.0,42.0
+513,Ju Se-jong,MF,South Korea,68.0,72.0,70.0,61.0,66.0,15.0,71.0
+514,Kim Shin-wook,FW,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+515,Lee Seung-woo,MF,South Korea,63.0,59.0,61.0,73.0,58.0,30.0,65.0
+516,Hwang Hee-chan,FW,South Korea,63.0,35.0,23.0,42.0,45.0,57.0,24.0
+517,Kim Min-woo,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+518,Koo Ja-cheol,MF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+519,Hong Chul,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+520,Jung Woo-young,MF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+521,Ki Sung-yueng,MF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+522,Lee Jae-sung,MF,South Korea,69.0,66.0,36.0,79.0,67.0,21.0,59.0
+523,Moon Seon-min,MF,South Korea,65.0,14.0,9.0,38.0,18.0,22.0,22.0
+524,Kim Young-gwon,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+525,Jang Hyun-soo,DF,South Korea,74.0,16.0,12.0,32.0,20.0,18.0,25.0
+526,Kim Jin-hyeon,GK,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+527,Go Yo-han,DF,South Korea,65.7,49.9,41.3,61.3,51.7,34.0,47.3
+528,Jo Hyeon-woo,GK,South Korea,56.0,34.0,32.0,54.0,46.0,53.0,43.0
+529,Robin Patrick Olsen,GK,Sweden,78.0,11.0,16.0,32.0,18.0,20.0,26.0
+530,Carl Mikael Lustig,DF,Sweden,71.0,66.0,40.0,54.0,71.0,73.0,33.0
+531,Victor Jörgen Nilsson Lindelöf,DF,Sweden,81.0,70.0,64.0,71.0,76.0,81.0,55.0
+532,Andreas Granqvist,DF,Sweden,80.0,49.0,40.0,55.0,63.0,82.0,79.0
+533,Martin Tony Waikwa Olsson,DF,Sweden,71.0,68.0,53.0,72.0,70.0,63.0,49.0
+534,Hans Carl Ludwig Augustinsson,DF,Sweden,64.0,57.0,53.0,70.0,60.0,54.0,41.0
+535,Bengt Ulf Sebastian Larsson,MF,Sweden,75.0,70.0,40.0,70.0,72.0,74.0,42.0
+536,Albin Ekdal,MF,Sweden,77.0,74.0,70.0,61.0,79.0,72.0,68.0
+537,Bengt Erik Markus Berg,FW,Sweden,74.63636363636364,60.45454545454545,49.63636363636363,62.68181818181818,64.5,54.31818181818182,52.36363636363637
+538,Emil Peter Forsberg,MF,Sweden,82.0,82.0,77.0,81.0,87.0,43.0,66.0
+539,John Alberto Guidetti,FW,Sweden,77.0,76.0,80.0,64.0,77.0,34.0,81.0
+540,Karl-Johan Anton Johnsson,GK,Sweden,73.0,16.0,11.0,45.0,22.0,20.0,17.0
+541,Karl Gustav Johan Svensson,MF,Sweden,74.0,64.0,33.0,48.0,70.0,73.0,45.0
+542,Filip Viktor Helander,DF,Sweden,75.0,52.0,40.0,54.0,54.0,77.0,34.0
+543,Oscar Karl Niclas Hiljemark,MF,Sweden,74.0,72.0,73.0,66.0,75.0,70.0,64.0
+544,Emil Henry Kristoffer Krafth,DF,Sweden,73.0,68.0,54.0,73.0,68.0,73.0,54.0
+545,Viktor Johan Anton Claesson,MF,Sweden,75.0,71.0,64.0,76.0,74.0,38.0,63.0
+546,Pontus Sven Gustav Jansson,DF,Sweden,77.0,64.0,40.0,53.0,66.0,75.0,39.0
+547,Marcus Christer Rohdén,MF,Sweden,71.0,68.0,49.0,74.0,70.0,63.0,66.0
+548,Nils Ola Toivonen,FW,Sweden,76.0,74.0,73.0,64.0,76.0,45.0,71.0
+549,Jakup Jimmy Durmaz,MF,Sweden,74.0,79.0,76.0,77.0,75.0,22.0,74.0
+550,Isaac Kiese Thelin,FW,Sweden,72.0,65.0,35.0,61.0,72.0,20.0,72.0
+551,Bo Kristoffer Nordfeldt,GK,Sweden,72.0,14.0,11.0,58.0,24.0,23.0,13.0
+552,Thibaut Nicolas Marc Courtois,GK,Belgium,89.0,13.0,20.0,61.0,23.0,15.0,27.0
+553,Toby Albertine Maurits Alderweireld,DF,Belgium,87.0,62.0,69.0,60.0,75.0,87.0,58.0
+554,Thomas Vermaelen,DF,Belgium,77.0,55.0,64.0,61.0,64.0,73.0,62.0
+555,Vincent Jean Mpoy Kompany,DF,Belgium,85.0,63.0,52.0,55.0,70.0,82.0,63.0
+556,Jan Bert Lieve Vertonghen,DF,Belgium,87.0,71.0,73.0,61.0,77.0,89.0,66.0
+557,Axel Laurent Angel Lambert Witsel,MF,Belgium,85.0,78.0,68.0,77.0,84.0,80.0,83.0
+558,Kevin De Bruyne,MF,Belgium,91.0,86.0,83.0,79.0,91.0,61.0,79.0
+559,Marouane Fellaini-Bakkioui,MF,Belgium,82.23809523809524,69.85714285714286,58.42857142857143,71.85714285714286,73.71428571428571,53.76190476190476,63.285714285714285
+560,Romelu Lukaku Bolingoli,FW,Belgium,72.0,69.0,32.0,84.0,68.0,68.0,68.0
+561,Eden Michael Walter Hazard,FW,Belgium,91.0,95.0,79.0,95.0,94.0,41.0,86.0
+562,Yannick Ferreira Carrasco,MF,Belgium,83.0,88.0,78.0,88.0,87.0,18.0,74.0
+563,Simon Luc Hildebert Mignolet,GK,Belgium,82.23809523809524,69.85714285714286,58.42857142857143,71.85714285714286,73.71428571428571,53.76190476190476,63.285714285714285
+564,Koen Casteels,GK,Belgium,83.0,14.0,13.0,50.0,23.0,16.0,20.0
+565,Dries Mertens,FW,Belgium,87.0,91.0,79.0,94.0,89.0,36.0,79.0
+566,Thomas André A. Meunier,DF,Belgium,82.0,75.0,56.0,63.0,82.0,76.0,65.0
+567,Thorgan Ganael Francis Hazard,MF,Belgium,83.0,87.0,79.0,91.0,84.0,41.0,81.0
+568,Youri Marion A. Tielemans,MF,Belgium,78.0,76.0,74.0,67.0,81.0,71.0,76.0
+569,Adnan Januzaj,FW,Belgium,79.0,85.0,65.0,85.0,82.0,36.0,60.0
+570,Mousa Sidi Yaya Dembélé,MF,Belgium,77.0,75.0,35.0,77.0,79.0,22.0,82.0
+571,Dedryck Anga Boyata,DF,Belgium,75.0,57.0,13.0,62.0,61.0,73.0,13.0
+572,Michy Batshuayi-Atunga,FW,Belgium,80.0,78.0,46.0,75.0,80.0,23.0,67.0
+573,Nacer Chadli,MF,Belgium,77.0,80.0,78.0,65.0,80.0,43.0,76.0
+574,Leander Dendoncker,DF,Belgium,79.0,69.0,71.0,59.0,74.0,78.0,44.0
+575,Jordan Lee Pickford,GK,England,83.0,14.0,16.0,55.0,40.0,24.0,41.0
+576,Kyle Andrew Walker,DF,England,84.0,79.0,71.0,67.0,78.0,81.0,63.0
+577,Daniel Lee Rose,DF,England,64.0,57.0,59.0,76.0,64.0,61.0,56.0
+578,Eric Jeremy Edgar Dier,MF,England,80.0,65.0,74.0,52.0,70.0,81.0,70.0
+579,John Stones,DF,England,83.0,69.0,29.0,61.0,80.0,81.0,44.0
+580,Jacob Harry Maguire,DF,England,59.0,61.0,42.0,56.0,47.0,62.0,42.0
+581,Jesse Ellis Lingard,MF,England,82.0,84.0,63.0,86.0,84.0,53.0,71.0
+582,Jordan Brian Henderson,MF,England,82.0,73.0,74.0,68.0,80.0,80.0,64.0
+583,Harry Edward Kane,FW,England,90.0,80.0,68.0,71.0,84.0,35.0,90.0
+584,Raheem Shaquille Sterling,FW,England,87.0,88.0,63.0,94.0,87.0,30.0,69.0
+585,Jamie Richard Vardy,FW,England,82.0,76.0,57.0,75.0,76.0,49.0,81.0
+586,Kieran John Trippier,DF,England,82.0,75.0,83.0,74.0,81.0,79.0,66.0
+587,Jack Butland,GK,England,80.0,21.0,14.0,55.0,36.0,27.0,42.0
+588,Daniel Nii Tackie Mensah Welbeck,FW,England,63.0,53.0,40.0,65.0,62.0,66.0,43.0
+589,Gary James Cahill,DF,England,79.0,56.0,27.0,49.0,60.0,77.0,53.0
+590,Philip Anthony Jones,DF,England,79.0,59.0,35.0,52.0,64.0,80.0,55.0
+591,Fabian Delph,DF,England,79.0,77.0,53.0,87.0,82.0,78.0,65.0
+592,Ashley Simon Young,DF,England,79.0,77.0,75.0,76.0,78.0,77.0,60.0
+593,Marcus Rashford,FW,England,83.0,84.0,80.0,88.0,84.0,42.0,74.0
+594,Bamidele Jermaine Alli,MF,England,85.0,83.0,68.0,76.0,86.0,74.0,74.0
+595,Ruben Ira Loftus-Cheek,MF,England,78.0,82.0,57.0,76.0,81.0,57.0,45.0
+596,Trent John Alexander-Arnold,DF,England,79.0,75.0,80.0,74.0,76.0,76.0,55.0
+597,Nicholas David Pope,GK,England,80.0,85.0,65.0,90.0,81.0,25.0,85.0
+598,Jaime Manuel Penedo Cano,GK,Panama,71.0,29.0,60.0,49.0,61.0,66.0,44.0
+599,Michael Amir Murillo Bermudez,DF,Panama,69.0,64.0,73.0,57.0,73.0,64.0,68.0
+600,Harold Oshkaly Cummings Segura,DF,Panama,68.0,49.0,35.0,53.0,55.0,72.0,38.0
+601,Fidel Escobar Mendieta,DF,Panama,64.0,62.0,36.0,51.0,65.0,13.0,59.0
+602,Román Aureliano Torres Morcillo,DF,Panama,70.0,34.0,23.0,34.0,55.0,63.0,50.0
+603,Gabriel Enrique Gómez Girón,MF,Panama,60.0,57.0,39.0,54.0,56.0,19.0,76.0
+604,Blas Antonio Pérez Ortega,FW,Panama,73.0,72.0,43.0,66.0,73.0,42.0,68.0
+605,Édgar Yoel Bárcenas Herrera,MF,Panama,63.0,62.0,43.0,64.0,55.0,59.0,42.0
+606,Gabriel Arturo Torres Tejada,FW,Panama,70.0,72.0,49.0,73.0,71.0,35.0,67.0
+607,Ismael Díaz de León,FW,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+608,Armando Enrique Cooper Whitaker,MF,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+609,José de Jesus Calderón Frias,GK,Panama,72.0,74.0,77.0,74.0,75.0,26.0,72.0
+610,Adolfo Abdiel Machado,DF,Panama,65.0,58.0,38.0,57.0,67.0,19.0,61.0
+611,Valentín Enrique Pimentel Armuelles,MF,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+612,Eric Javier Davis Grajales,DF,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+613,Abdiel Arroyo Molinar,FW,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+614,Luis Carlos Ovalle Victoria,DF,Panama,68.0,57.0,33.0,62.0,67.0,24.0,71.0
+615,"Luis Carlos ""Matador"" Tejada Hansell",FW,Panama,69.41176470588235,60.88235294117647,48.11764705882353,61.8235294117647,66.82352941176471,46.705882352941174,57.88235294117647
+616,Ricardo Guardia Ávila,MF,Panama,74.0,78.0,74.0,73.0,77.0,53.0,63.0
+617,Anibal Casis Godoy Lemus,MF,Panama,71.0,67.0,38.0,64.0,67.0,70.0,36.0
+618,José Luis Rodríguez Francis,MF,Panama,75.0,54.0,33.0,68.0,67.0,74.0,48.0
+619,Álex Raúl Rodríguez Ledezma,GK,Panama,82.0,84.0,57.0,82.0,85.0,49.0,66.0
+620,Felipe Abdiel Baloy Ramírez,DF,Panama,65.0,62.0,67.0,70.0,67.0,46.0,55.0
+621,Farouk Ben Mustapha,GK,Tunisia,70.0,14.0,11.0,33.0,21.0,21.0,21.0
+622,Syam  Ben Youssef,DF,Tunisia,71.0,50.0,36.0,32.0,53.0,68.0,36.0
+623,Yohan Ben Alouane,DF,Tunisia,73.0,47.0,52.0,56.0,59.0,76.0,38.0
+624,Yassine Meriah,DF,Tunisia,72.0,57.0,32.0,64.0,62.0,72.0,66.0
+625,Oussama Haddadi,DF,Tunisia,71.0,64.0,34.0,55.0,68.0,71.0,41.0
+626,Rami Bedoui,DF,Tunisia,68.0,56.0,41.0,68.0,62.0,68.0,45.0
+627,Saîf-Eddine Khaoui,FW,Tunisia,72.0,74.0,74.0,76.0,75.0,28.0,49.0
+628,Fakhreddine Ben Youssef,FW,Tunisia,67.0,56.0,29.0,57.0,59.0,22.0,58.0
+629,Anice Badri,MF,Tunisia,63.0,70.0,41.0,77.0,68.0,25.0,58.0
+630,Wahbi Khazri,FW,Tunisia,79.0,79.0,79.0,80.0,81.0,61.0,75.0
+631,Dylan Daniel Mahmoud Bronn,DF,Tunisia,75.0,66.0,53.0,62.0,67.0,73.0,51.0
+632,Ali Maâloul,DF,Tunisia,65.0,67.0,48.0,67.0,69.0,31.0,46.0
+633,Ferjani Sassi,MF,Tunisia,65.0,55.0,44.0,57.0,56.0,66.0,51.0
+634,Mohamed Amine Ben Amor,MF,Tunisia,62.0,69.0,32.0,75.0,64.0,51.0,31.0
+635,Ahmed Khalil,FW,Tunisia,68.0,63.0,63.0,73.0,71.0,69.0,52.0
+636,Aymen Mathlouthi,GK,Tunisia,70.23809523809524,60.523809523809526,46.714285714285715,65.9047619047619,63.333333333333336,49.523809523809526,51.142857142857146
+637,Ellyes Joris Skhiri,MF,Tunisia,77.0,74.0,55.0,74.0,73.0,85.0,58.0
+638,Bassem Srarfi,FW,Tunisia,72.0,79.0,59.0,80.0,75.0,29.0,66.0
+639,Saber Khalifa,FW,Tunisia,68.0,67.0,49.0,75.0,71.0,31.0,66.0
+640,Ghailene Chaalali,FW,Tunisia,70.0,70.0,65.0,81.0,73.0,45.0,75.0
+641,Hamdi Nagguez,DF,Tunisia,70.23809523809524,60.523809523809526,46.714285714285715,65.9047619047619,63.333333333333336,49.523809523809526,51.142857142857146
+642,Mouez Hassen,GK,Tunisia,71.0,13.0,14.0,63.0,24.0,16.0,21.0
+643,Naïm Sliti,FW,Tunisia,76.0,81.0,70.0,79.0,79.0,32.0,70.0
+644,David Ospina Ramírez,GK,Colombia,79.0,12.0,13.0,44.0,32.0,25.0,26.0
+645,Cristián Eduardo Zapata Valencia,DF,Colombia,70.0,73.0,40.0,75.0,70.0,36.0,59.0
+646,Óscar Fabián Murillo Murillo,DF,Colombia,75.0,46.0,27.0,54.0,56.0,79.0,32.0
+647,Santiago Arias Naranjo,DF,Colombia,79.0,74.0,54.0,78.0,77.0,75.0,56.0
+648,Wilmar Enrique Barrios Terán,MF,Colombia,78.0,66.0,31.0,75.0,69.0,80.0,32.0
+649,Carlos Alberto Sánchez Moreno,MF,Colombia,57.0,14.0,13.0,36.0,16.0,12.0,13.0
+650,Carlos Arturo Bacca Ahumada,FW,Colombia,80.0,78.0,58.0,70.0,78.0,34.0,80.0
+651,Abel Enrique Aguilar Tapias,MF,Colombia,60.0,29.0,29.0,57.0,49.0,54.0,52.0
+652,Radamel Falcao García Zárate,FW,Colombia,84.0,75.0,73.0,76.0,82.0,41.0,81.0
+653,James David Rodríguez Rubio,MF,Colombia,87.0,85.0,86.0,83.0,90.0,55.0,81.0
+654,Juan Guillermo Cuadrado Bello,MF,Colombia,60.0,23.0,28.0,51.0,33.0,59.0,32.0
+655,Camilo Andrés Vargas Gil,GK,Colombia,76.0,16.0,23.0,55.0,19.0,23.0,46.0
+656,Yerry Fernando Mina González,DF,Colombia,66.0,62.0,37.0,59.0,65.0,64.0,44.0
+657,Luis Fernando Muriel Fruto,FW,Colombia,66.0,65.0,64.0,75.0,66.0,58.0,60.0
+658,Andrés Mateus Uribe Villa,MF,Colombia,66.0,30.0,40.0,64.0,50.0,74.0,47.0
+659,Jefferson Andrés Lerma Solís,MF,Colombia,79.0,69.0,65.0,75.0,77.0,80.0,58.0
+660,Johan Andrés Mojica Palacio,DF,Colombia,78.0,78.0,68.0,74.0,79.0,72.0,67.0
+661,Farid Alfonso Díaz Rhenals,DF,Colombia,72.0,64.0,57.0,78.0,72.0,62.0,61.0
+662,Miguel Ángel Borja Hernández,FW,Colombia,69.0,37.0,32.0,51.0,48.0,71.0,37.0
+663,Juan Fernando Quintero Paniagua,MF,Colombia,54.0,49.0,39.0,59.0,38.0,51.0,46.0
+664,José Heriberto Izquierdo Mena,FW,Colombia,76.0,81.0,34.0,91.0,78.0,39.0,58.0
+665,José Fernando Cuadrado Romero,GK,Colombia,58.0,52.0,42.0,70.0,55.0,24.0,61.0
+666,Davinson Sánchez Mina,DF,Colombia,84.0,63.0,27.0,60.0,73.0,82.0,44.0
+667,Eiji Kawashima,GK,Japan,60.0,8.0,10.0,29.0,15.0,10.0,13.0
+668,Naomichi Ueda,DF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+669,Gen Shōji,DF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+670,Keisuke Honda,MF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+671,Yuto Nagatomo,DF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+672,Wataru Endo,DF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+673,Gaku Shibasaki,MF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+674,Genki Haraguchi,MF,Japan,55.0,64.0,31.0,94.0,61.0,21.0,55.0
+675,Shinji Okazaki,FW,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+676,Shinji Kagawa,MF,Japan,64.0,58.0,25.0,63.0,59.0,20.0,60.0
+677,Takashi Usami,MF,Japan,65.0,66.0,50.0,68.0,62.0,40.0,54.0
+678,Masaaki Higashiguchi,GK,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+679,Yoshinori Muto,FW,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+680,Takashi Inui,MF,Japan,65.0,66.0,50.0,68.0,62.0,40.0,54.0
+681,Yuya Osako,FW,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+682,Hotaru Yamaguchi,MF,Japan,60.0,11.0,12.0,33.0,17.0,13.0,17.0
+683,Makoto Hasebe,MF,Japan,60.0,65.0,32.0,73.0,59.0,20.0,46.0
+684,Ryota Oshima,MF,Japan,75.0,78.0,63.0,77.0,79.0,75.0,63.0
+685,Hiroki Sakai,DF,Japan,67.0,69.0,41.0,80.0,72.0,56.0,44.0
+686,Tomoaki Makino,DF,Japan,61.0,16.0,12.0,33.0,16.0,21.0,17.0
+687,Gōtoku Sakai,DF,Japan,65.0,67.0,54.0,66.0,66.0,31.0,61.0
+688,Maya Yoshida,DF,Japan,62.666666666666664,49.916666666666664,34.5,61.666666666666664,50.666666666666664,33.083333333333336,43.166666666666664
+689,Kosuke Nakamura,GK,Japan,55.0,31.0,34.0,56.0,40.0,50.0,34.0
+690,Wojciech Tomasz Szczęsny,GK,Poland,86.0,11.0,14.0,55.0,22.0,15.0,18.0
+691,Michał Pazdan,DF,Poland,71.0,47.0,41.0,60.0,65.0,72.0,31.0
+692,Artur Marcin Jędrzejczyk,DF,Poland,70.0,63.0,34.0,66.0,70.0,71.0,34.0
+693,Thiago Rangel Cionek,DF,Poland,72.0,46.0,25.0,65.0,56.0,74.0,39.0
+694,Jan Kacper Bednarek,DF,Poland,72.0,50.0,26.0,56.0,55.0,66.0,32.0
+695,Jacek Góralski,MF,Poland,73.0,61.0,46.0,84.0,68.0,77.0,43.0
+696,Arkadiusz Krystian Milik,FW,Poland,82.0,76.0,82.0,68.0,79.0,36.0,79.0
+697,Karol Linetty,MF,Poland,76.0,74.0,36.0,76.0,76.0,76.0,50.0
+698,Robert Lewandowski,FW,Poland,90.0,85.0,86.0,78.0,89.0,39.0,86.0
+699,Grzegorz Krychowiak,MF,Poland,66.0,64.0,37.0,68.0,65.0,36.0,56.0
+700,Kamil Paweł Grosicki,MF,Poland,73.0,70.0,71.0,80.0,74.0,48.0,68.0
+701,Bartosz Marek Białkowski,GK,Poland,72.0,14.0,12.0,48.0,18.0,19.0,17.0
+702,Maciej Rybus,MF,Poland,72.0,75.0,76.0,76.0,70.0,70.0,67.0
+703,Łukasz Teodorczyk,FW,Poland,76.0,65.0,49.0,61.0,70.0,24.0,65.0
+704,Kamil Jacek Glik,DF,Poland,82.0,51.0,26.0,34.0,59.0,82.0,39.0
+705,Jakub Błaszczykowski,MF,Poland,74.0,74.0,67.0,74.0,77.0,60.0,70.0
+706,Sławomir Konrad Peszko,MF,Poland,64.0,63.0,58.0,68.0,64.0,42.0,53.0
+707,Bartosz Bereszyński,DF,Poland,74.0,68.0,50.0,76.0,70.0,70.0,50.0
+708,Piotr Sebastian Zieliński,MF,Poland,82.0,85.0,65.0,79.0,85.0,75.0,51.0
+709,Łukasz Piotr Piszczek,DF,Poland,81.0,72.0,47.0,66.0,76.0,83.0,65.0
+710,Rafał Maciej Kurzawa,MF,Poland,70.0,72.0,67.0,72.0,71.0,59.0,55.0
+711,Łukasz Marek Fabiański,GK,Poland,81.0,14.0,12.0,52.0,22.0,16.0,22.0
+712,Dawid Igor Kownacki,FW,Poland,70.0,66.0,32.0,72.0,68.0,42.0,72.0
+713,Abdoulaye Diallo,GK,Senegal,65.0,58.0,42.0,66.0,60.0,12.0,62.0
+714,Adama Mbengue,DF,Senegal,69.0,66.0,32.0,73.0,71.0,63.0,54.0
+715,Kalidou Koulibaly,DF,Senegal,88.0,69.0,28.0,50.0,63.0,88.0,33.0
+716,Serigne Modou Kara Mbodji,DF,Senegal,77.0,61.0,55.0,38.0,68.0,71.0,62.0
+717,Idrissa Gana Gueye,MF,Senegal,83.0,75.0,61.0,82.0,79.0,88.0,54.0
+718,Salif Sané,MF,Senegal,82.0,64.0,58.0,60.0,70.0,83.0,43.0
+719,Moussa Sow,FW,Senegal,67.0,75.0,49.0,83.0,64.0,19.0,71.0
+720,Cheikhou Kouyaté,MF,Senegal,76.0,68.0,47.0,62.0,73.0,77.0,52.0
+721,Mame Biram Diouf,FW,Senegal,73.0,65.0,36.0,77.0,65.0,67.0,75.0
+722,Sadio Mané,FW,Senegal,86.0,87.0,64.0,91.0,86.0,35.0,71.0
+723,Cheikh Tidiane N'Doye,MF,Senegal,70.0,64.0,49.0,48.0,72.0,70.0,57.0
+724,Youssouf Sabaly,DF,Senegal,76.0,74.0,38.0,78.0,74.0,77.0,43.0
+725,Alfred John Momar N'Diaye,MF,Senegal,76.0,65.0,32.0,61.0,76.0,74.0,54.0
+726,Pape Moussa Konaté,FW,Senegal,66.0,63.0,42.0,76.0,58.0,64.0,36.0
+727,Diafra Sakho,FW,Senegal,74.0,72.0,62.0,70.0,72.0,37.0,73.0
+728,Serigne Khadim N'Diaye,GK,Senegal,53.0,50.0,37.0,62.0,45.0,40.0,45.0
+729,"Papa Alioune ""Badou"" Ndiaye",MF,Senegal,63.0,63.0,34.0,75.0,62.0,18.0,55.0
+730,Ismaïla Sarr,FW,Senegal,77.0,81.0,55.0,79.0,77.0,17.0,58.0
+731,M'Baye Hamady Niang,FW,Senegal,76.0,81.0,66.0,82.0,80.0,30.0,75.0
+732,Keita Baldé Diao,FW,Senegal,80.0,83.0,52.0,82.0,85.0,31.0,60.0
+733,Lamine Gassama,DF,Senegal,68.0,62.0,43.0,76.0,64.0,66.0,59.0
+734,Moussa Wagué,DF,Senegal,69.0,71.0,31.0,79.0,68.0,67.0,39.0
+735,Amigo Alfred Junior Gomis,GK,Senegal,76.0,15.0,12.0,60.0,24.0,21.0,23.0
