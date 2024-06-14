@@ -29,9 +29,8 @@ The best-performing model was the Random Forest, which achieved a test accuracy 
 
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/maysoshi/fifa-world-cup-forecaster.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook or Python scripts to train the models and make predictions.
+1. Clone the repository: `git clone https://github.com/maysoshi/world-cup-forecaster.git`
+2. Run the Jupyter Notebook or Python scripts to train the models and make predictions.
 
 ## Results
 
