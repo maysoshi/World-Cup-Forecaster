@@ -52,3 +52,6 @@ Potential improvements and future work include:
 - Ibrahim Suat Evren
 - Mari Kikuta
 - Mayesha Soshi
+
+## Acknowledgements 
+This project was completed as part of Computer Science 109a at Harvard University.
