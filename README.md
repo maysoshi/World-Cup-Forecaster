@@ -1,5 +1,6 @@
 # FIFA World Cup Forecaster
 
+## Description
 This project aims to predict the winners of the 2022 FIFA World Cup based on historical data, team statistics, and player ratings. We used various machine learning models, including logistic regression, decision trees, bagging, random forests, and XGBoost, to train our models on data from the 2010, 2014, and 2018 World Cups.
 
 ## Data
@@ -45,7 +46,7 @@ Potential improvements and future work include:
 - Exploring other ensemble methods and deep learning models
 - Incorporating more advanced techniques for handling imbalanced data
 
-## Contributors
+## Collaborators
 
 - Omar Abdel Haq
 - Elie Eshoa
